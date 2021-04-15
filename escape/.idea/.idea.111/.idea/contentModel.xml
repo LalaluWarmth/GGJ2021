@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\JaWier\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\JaWier\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\JaWier\.Rider2019.2\system\resharper-host\Local\Transient\ReSharperHost\v192\SolutionCaches\_111.2086479789.00" t="ExcludeRecursive" />
+    <e p="F:\Unity\111111\111" t="IncludeRecursive">
+      <e p="111.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="attacked.cs" t="Include" />
+        <e p="AudioClips" t="Include">
+          <e p="Jiaobu.cs" t="Include" />
+        </e>
+        <e p="DialogueSystem" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ImportPackage.cs" t="Include" />
+            <e p="NarrativeConditionEditor.cs" t="Include" />
+            <e p="NarrativeEffectEditor.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Dialogue" t="Include">
+              <e p="DialogueActor.cs" t="Include" />
+              <e p="DialogueActorPortrait.cs" t="Include" />
+              <e p="DialogueChoice.cs" t="Include" />
+              <e p="DialogueChoiceItem.cs" t="Include" />
+              <e p="DialogueEvent.cs" t="Include" />
+              <e p="DialogueMessage.cs" t="Include" />
+            </e>
+            <e p="Narrative" t="Include">
+              <e p="NarrativeCondition.cs" t="Include" />
+              <e p="NarrativeData.cs" t="Include" />
+              <e p="NarrativeEffect.cs" t="Include" />
+              <e p="NarrativeEvent.cs" t="Include" />
+              <e p="NarrativeGroup.cs" t="Include" />
+              <e p="NarrativeManager.cs" t="Include" />
+              <e p="NarrativeQuest.cs" t="Include" />
+              <e p="NarrativeTarget.cs" t="Include" />
+            </e>
+            <e p="Region.cs" t="Include" />
+            <e p="UI" t="Include">
+              <e p="ButtonDisplayTalk.cs" t="Include" />
+              <e p="ButtonIconUI.cs" t="Include" />
+              <e p="DialogueChoicePanel.cs" t="Include" />
+              <e p="DialoguePanel.cs" t="Include" />
+              <e p="DialogueZoomPanel.cs" t="Include" />
+              <e p="QuestBox.cs" t="Include" />
+              <e p="UIPanel.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="elevator.cs" t="Include" />
+        <e p="EnemyVision" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="CameraFollow.cs" t="Include" />
+              <e p="CharacterControls.cs" t="Include" />
+              <e p="CharacterControls2D.cs" t="Include" />
+              <e p="EnemyDemo.cs" t="Include" />
+              <e p="EnemyDemo2D.cs" t="Include" />
+              <e p="Invisible.cs" t="Include" />
+              <e p="SpawnFX.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Enemy.cs" t="Include" />
+            <e p="Enemy2D.cs" t="Include" />
+            <e p="EnemyFollow.cs" t="Include" />
+            <e p="EnemyFollow2D.cs" t="Include" />
+            <e p="EnemyLOS.cs" t="Include" />
+            <e p="EnemyLOS2D.cs" t="Include" />
+            <e p="EnemyPatrol.cs" t="Include" />
+            <e p="EnemyPatrol2D.cs" t="Include" />
+            <e p="EnemyVision.cs" t="Include" />
+            <e p="EnemyVision2D.cs" t="Include" />
+            <e p="VisionTarget.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Platformer2D" t="Include">
+          <e p="Editor" t="Include">
+            <e p="GenerateIDs.cs" t="Include" />
+            <e p="ImportPackage.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Data" t="Include">
+              <e p="PlayerData.cs" t="Include" />
+              <e p="SaveSystem.cs" t="Include" />
+              <e p="UniqueID.cs" t="Include" />
+            </e>
+            <e p="Enemy" t="Include">
+              <e p="Enemy.cs" t="Include" />
+              <e p="EnemyDemo.cs" t="Include" />
+              <e p="EnemyFollow.cs" t="Include" />
+              <e p="EnemyPatrol.cs" t="Include" />
+            </e>
+            <e p="FX" t="Include">
+              <e p="MeshSprite.cs" t="Include" />
+              <e p="SpawnFX.cs" t="Include" />
+            </e>
+            <e p="Gameplay" t="Include">
+              <e p="CharacterAnim.cs" t="Include" />
+              <e p="CharacterHoldItem.cs" t="Include" />
+              <e p="FollowCamera.cs" t="Include" />
+              <e p="LevelExit.cs" t="Include" />
+              <e p="PlayerCharacter.cs" t="Include" />
+              <e p="PlayerControls.cs" t="Include" />
+              <e p="SceneNav.cs" t="Include" />
+              <e p="TheAudio.cs" t="Include" />
+              <e p="TheGame.cs" t="Include" />
+            </e>
+            <e p="Objects" t="Include">
+              <e p="Box.cs" t="Include" />
+              <e p="CarryItem.cs" t="Include" />
+              <e p="Checkpoint.cs" t="Include" />
+              <e p="Door.cs" t="Include" />
+              <e p="FloorTrigger.cs" t="Include" />
+              <e p="HazardDamage.cs" t="Include" />
+              <e p="Key.cs" t="Include" />
+              <e p="Ladder.cs" t="Include" />
+              <e p="Lever.cs" t="Include" />
+              <e p="ParallaxBackground.cs" t="Include" />
+              <e p="PlatformMoving.cs" t="Include" />
+              <e p="Powerup.cs" t="Include" />
+              <e p="Switch.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="GameOver.cs" t="Include" />
+              <e p="GameplayUI.cs" t="Include" />
+              <e p="HealthBar.cs" t="Include" />
+              <e p="IconBar.cs" t="Include" />
+              <e p="LoadingScene.cs" t="Include" />
+              <e p="PauseMenu.cs" t="Include" />
+              <e p="ProgressBar.cs" t="Include" />
+              <e p="StartScene.cs" t="Include" />
+              <e p="UIPanel.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BehaviorCD.cs" t="Include" />
+          <e p="ButtonEvent.cs" t="Include" />
+          <e p="InputController.cs" t="Include" />
+          <e p="Movement.cs" t="Include" />
+          <e p="ObjectIsStill.cs" t="Include" />
+          <e p="RayScript.cs" t="Include" />
+          <e p="ToolBarController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

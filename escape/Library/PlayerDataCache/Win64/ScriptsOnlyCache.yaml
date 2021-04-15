@@ -1,0 +1,1160 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - BehaviorCD
+    - ButtonEvent
+    - IndieMarc.StealthLOS.CharacterControls2D
+    - IndieMarc.StealthLOS.Enemy2D
+    - IndieMarc.StealthLOS.EnemyDemo2D
+    - IndieMarc.StealthLOS.EnemyFollow2D
+    - IndieMarc.StealthLOS.EnemyLOS2D
+    - IndieMarc.StealthLOS.EnemyPatrol2D
+    - IndieMarc.StealthLOS.EnemyVision2D
+    - IndieMarc.StealthLOS.SpawnFX
+    - IndieMarc.StealthLOS.VisionTarget
+    - InputController
+    - Jiaobu
+    - ObjectIsStill
+    - ToolBarController
+    - attacked
+    - elevator
+    DOTween.dll:
+    - DG.Tweening.Core.DOTweenSettings
+    Unity.2D.Animation.Editor.dll:
+    - UnityEditor.U2D.Animation.BoneGizmo
+    Unity.2D.Animation.Runtime.dll:
+    - UnityEngine.U2D.Animation.SpriteSkin
+    Unity.2D.Tilemap.Editor.dll:
+    - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
+    - UnityEditor.Tilemaps.GridPaintPaletteClipboard
+    - UnityEditor.Tilemaps.GridPaintPaletteWindow
+    - UnityEditor.Tilemaps.GridPaintingState
+    - UnityEditor.Tilemaps.GridPaletteBrushes
+    - UnityEditor.Tilemaps.GridPalettes
+    - UnityEditor.Tilemaps.PaintableSceneViewGrid
+    - UnityEditor.Tilemaps.SceneViewGridManager
+    - UnityEditor.Tilemaps.TileDragAndDropManager
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.RiderScriptEditorData
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Shadow
+    - UnityEngine.UI.Text
+  sceneClasses:
+    Assets/Scenes/111.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 50
+      Script: {instanceID: 0}
+    - Class: 60
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 62
+      Script: {instanceID: 0}
+    - Class: 66
+      Script: {instanceID: 0}
+    - Class: 70
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 592}
+    - Class: 114
+      Script: {instanceID: 11162}
+    - Class: 114
+      Script: {instanceID: 11164}
+    - Class: 114
+      Script: {instanceID: 11166}
+    - Class: 114
+      Script: {instanceID: 11190}
+    - Class: 114
+      Script: {instanceID: 11354}
+    - Class: 114
+      Script: {instanceID: 11376}
+    - Class: 114
+      Script: {instanceID: 11544}
+    - Class: 114
+      Script: {instanceID: 11558}
+    - Class: 114
+      Script: {instanceID: 11722}
+    - Class: 114
+      Script: {instanceID: 12030}
+    - Class: 114
+      Script: {instanceID: 12082}
+    - Class: 114
+      Script: {instanceID: 12176}
+    - Class: 114
+      Script: {instanceID: 12230}
+    - Class: 114
+      Script: {instanceID: 12546}
+    - Class: 114
+      Script: {instanceID: 12580}
+    - Class: 114
+      Script: {instanceID: 12764}
+    - Class: 114
+      Script: {instanceID: 12890}
+    - Class: 114
+      Script: {instanceID: 12920}
+    - Class: 114
+      Script: {instanceID: 12948}
+    - Class: 114
+      Script: {instanceID: 13092}
+    - Class: 114
+      Script: {instanceID: 13190}
+    - Class: 114
+      Script: {instanceID: 13260}
+    - Class: 114
+      Script: {instanceID: 13364}
+    - Class: 114
+      Script: {instanceID: 13540}
+    - Class: 114
+      Script: {instanceID: 13552}
+    - Class: 114
+      Script: {instanceID: 13682}
+    - Class: 114
+      Script: {instanceID: 14288}
+    - Class: 114
+      Script: {instanceID: 14354}
+    - Class: 114
+      Script: {instanceID: 14364}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 19719996
+      Script: {instanceID: 0}
+    - Class: 156049354
+      Script: {instanceID: 0}
+    - Class: 483693784
+      Script: {instanceID: 0}
+    - Class: 1839735485
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: b4fc42b020df4b67385e61ff21d513cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: c71f81a57756074d3a5ae503d69d1ea1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: EnemyFollow
+  - hash:
+      serializedVersion: 2
+      Hash: be7c58ece932a007a8001107d96fa9b9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: HazardDamage
+  - hash:
+      serializedVersion: 2
+      Hash: d4ead8a48c81fab52d02407a14d28adf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: Lever
+  - hash:
+      serializedVersion: 2
+      Hash: e7e7e35258685f9f859bea6a34f7151e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: attacked
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: a5eea801021b9978c65832b56f5437b1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: EnemyLOS2D
+  - hash:
+      serializedVersion: 2
+      Hash: fedb0cbabb9c1c396860038b614fd697
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: CharacterHoldItem
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: Invisible
+  - hash:
+      serializedVersion: 2
+      Hash: 0beb8d294dedf7ea0869d997a14ad5bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Box
+  - hash:
+      serializedVersion: 2
+      Hash: 2b850486e44d7ac7a4a533b14aa9ef17
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: EnemyVision
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: bb794812670ecc01c1dd130e55dce012
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: ProgressBar
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: bf77959414da1a8d35a66f7851d386c7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: StartScene
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: c71f81a57756074d3a5ae503d69d1ea1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: EnemyFollow2D
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 8f8d35a4084d8ae028797cd3e1832bb9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: FollowCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 234d407605354852c48e57df17c9a1c6
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 09c73911a49fd3f06cfc7b17dc261b8f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: DialogueMessage
+  - hash:
+      serializedVersion: 2
+      Hash: 87197b37f27b8cf908efa4916b319c51
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: EnemyDemo
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 0fcd82514acaceff93c7e421ffdf2d08
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: NarrativeManager
+  - hash:
+      serializedVersion: 2
+      Hash: 3670c298d5529d2c8b08ae9c9092f349
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: EnemyPatrol2D
+  - hash:
+      serializedVersion: 2
+      Hash: 77c2b85cb401099928c1fefc60cf65d3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: Checkpoint
+  - hash:
+      serializedVersion: 2
+      Hash: 5b1af6404dff3990428c6d68ad50cd23
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: Enemy
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: a511d0909d63fcc3661c21140522d715
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: DialogueActor
+  - hash:
+      serializedVersion: 2
+      Hash: 7b6d0b3487b0005deeb65eef83fcd3e0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: Enemy
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ee05a508393bad7029006e4e750e399b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: EnemyLOS
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 87cef3c82381dc586f6772c3e27561b6
+    assemblyName: Unity.2D.Animation.Runtime.dll
+    namespaceName: UnityEngine.Experimental.U2D.Animation
+    className: SpriteLibrary
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 1103fb0758976355cdf9b7d5ce9cb7e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 16aa03f4e205068eaa46a4f9fd279d9e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: PlayerCharacter
+  - hash:
+      serializedVersion: 2
+      Hash: e137f1a312791a4fd99372b86153a550
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: IconBar
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 59fd3b80872b7b0f9a0a9d41ebc40c1c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: NarrativeEffect
+  - hash:
+      serializedVersion: 2
+      Hash: a72d5012cb011c51ebabab7f8dcce49f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: DialoguePanel
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: SpawnFX
+  - hash:
+      serializedVersion: 2
+      Hash: dfa7202c3da20723ced2c465f943e260
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ObjectIsStill
+  - hash:
+      serializedVersion: 2
+      Hash: 7f54b9fcd29826f6cc62b1f05e70c79d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: PauseMenu
+  - hash:
+      serializedVersion: 2
+      Hash: b424b4eeb810aecb0ff91c62639241e9
+    assemblyName: Unity.2D.Animation.Runtime.dll
+    namespaceName: UnityEngine.Experimental.U2D.Animation
+    className: SpriteResolver
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 0c0d972363f69d2d2901ed300fbe51fa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: MeshSprite
+  - hash:
+      serializedVersion: 2
+      Hash: d3bbd1f86b55a6168b664522b2cf57b3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: SpawnFX
+  - hash:
+      serializedVersion: 2
+      Hash: 5cc439bf63c0539d39588e69465ac2ab
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 339554e9b309ef20dfd4d199c09d31e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RayScript
+  - hash:
+      serializedVersion: 2
+      Hash: a123e90ebb8e1196d32a6da9d8a7a380
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: NarrativeQuest
+  - hash:
+      serializedVersion: 2
+      Hash: a73ccbf8574478d90c372beca744230e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: DialogueChoiceItem
+  - hash:
+      serializedVersion: 2
+      Hash: 7f54b9fcd29826f6cc62b1f05e70c79d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: GameOver
+  - hash:
+      serializedVersion: 2
+      Hash: 35303ecc52511c9dba41c7b0a9a5f17e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: DialogueChoice
+  - hash:
+      serializedVersion: 2
+      Hash: 8325c6b53113fd0adf3806938792100b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: PlatformMoving
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: CharacterAnim
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 703f8f3efbd9247a558e318b653bfefb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: Switch
+  - hash:
+      serializedVersion: 2
+      Hash: 24cefb909bf560c0c5cfea5632283a87
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: Enemy2D
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: LoadingScene
+  - hash:
+      serializedVersion: 2
+      Hash: a8d9602db4304942e507dd75fad42645
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: EnemyDemo
+  - hash:
+      serializedVersion: 2
+      Hash: 0510beb826ed09abf28c486aeb0ea907
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: DialogueEvent
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.2D.Animation.Runtime.dll
+    namespaceName: UnityEngine.U2D.Animation
+    className: SpriteSkinEntity
+  - hash:
+      serializedVersion: 2
+      Hash: 32e9a000a517f136666760b3b88e3561
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: Region
+  - hash:
+      serializedVersion: 2
+      Hash: 3b8706e2fd266dead8da116fe8e49618
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: NarrativeEvent
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 704dcd31abc789439bc3f3cd10b58c2b
+    assemblyName: DOTween.dll
+    namespaceName: DG.Tweening.Core
+    className: DOTweenComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 179648033371456981a3c08cb9f47477
+    assemblyName: DOTween.dll
+    namespaceName: DG.Tweening.Core
+    className: DOTweenSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 85ffe4fb7e30c7bab108eb913caf3e3c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: DialogueZoomPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: d7bfd4753309bcf6eaa6724ac24ab0d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: ButtonIconUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: TheGame
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: c01b3539a5ab09665ed64d40c75e9a4d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: CharacterControls2D
+  - hash:
+      serializedVersion: 2
+      Hash: 7dfb4f536de2bfb3d72e3afd58cf0ad4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ToolBarController
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 0b3aab53e87ba8a2369f8fd47411c6d2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BehaviorCD
+  - hash:
+      serializedVersion: 2
+      Hash: 7f54b9fcd29826f6cc62b1f05e70c79d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: UIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 9da828b3e8ac890aa55ecf164f6a3500
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: Door
+  - hash:
+      serializedVersion: 2
+      Hash: 39ccb8cc18783b56adc1648a524d782e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: NarrativeCondition
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: c53e610b8e61d4d0ae9a75c6082323d2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: EnemyVision2D
+  - hash:
+      serializedVersion: 2
+      Hash: 71b711096c6c32621c1d4c02310898b7
+    assemblyName: Unity.2D.Animation.Runtime.dll
+    namespaceName: UnityEngine.U2D.Animation
+    className: SpriteSkin
+  - hash:
+      serializedVersion: 2
+      Hash: 1df2af48727032784b8fd23ae67fe158
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: EnemyFollow
+  - hash:
+      serializedVersion: 2
+      Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: Ladder
+  - hash:
+      serializedVersion: 2
+      Hash: b76bfdc1a58ff6ac6c587b2f71d995e0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: EnemyPatrol
+  - hash:
+      serializedVersion: 2
+      Hash: 87197b37f27b8cf908efa4916b319c51
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: EnemyDemo2D
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 344a8c2e106a0a4e098e91a52e0af063
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 28cfb4bd305dd11c6326cc3ee7c14138
+    assemblyName: Unity.2D.Animation.Runtime.dll
+    namespaceName: UnityEngine.Experimental.U2D.Animation
+    className: SpriteLibraryAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 21ec0cce94191eee35491d3bf30bd5cf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: EnemyPatrol
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 490cca890cd8cba7bc819025710aa231
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: CarryItem
+  - hash:
+      serializedVersion: 2
+      Hash: 4add51ab9700c07396704045a43f25f7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Jiaobu
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: cfa40b353df4458bb6abd75cb8470e16
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: DialogueChoicePanel
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: ParallaxBackground
+  - hash:
+      serializedVersion: 2
+      Hash: 582650739785cadf0a9a1eb0d46942e2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: LevelExit
+  - hash:
+      serializedVersion: 2
+      Hash: f9ecddf4f6de8e11890a263530779828
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InputController
+  - hash:
+      serializedVersion: 2
+      Hash: 486762194855ce4e6804c890abeec5f1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: elevator
+  - hash:
+      serializedVersion: 2
+      Hash: 6939772cb3ce775a8e8d99f332534491
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 6e36009cf36691997926672762ff36d6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: UniqueID
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: d86baa5f7fa7d6654a66f787f9ac2bed
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: HealthBar
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 11a3d894b9b09b2f1e0917cd9249fe4d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: CharacterControls
+  - hash:
+      serializedVersion: 2
+      Hash: 38923c1bb209e236e2c466595b2ce6eb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: Key
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 4c85dc3d90a4f669452c65614a59f991
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: Powerup
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 96c6830bc9c9e5f398871c2751322916
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: TheAudio
+  - hash:
+      serializedVersion: 2
+      Hash: 631b6525be6da4cc18e91d60940ddd91
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: QuestBox
+  - hash:
+      serializedVersion: 2
+      Hash: 7f54b9fcd29826f6cc62b1f05e70c79d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: UIPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 758ce1aec70a3e580e73e50370856bbd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Movement
+  - hash:
+      serializedVersion: 2
+      Hash: 45cf65e5dc208b3e5d18d2fcabbb093b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.DialogueSystem
+    className: ButtonDisplayTalk
+  - hash:
+      serializedVersion: 2
+      Hash: f6a32d3142c336cd3be3ed8024fed1d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: GameplayUI
+  - hash:
+      serializedVersion: 2
+      Hash: 8cd1cbba27f3cb1717254f668e9e0d5a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 1a72514f4c6316f05a4695eb319d616e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: CameraFollow
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 9726bc46e15d44429bd38fb013657f1e
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: d554bda579bb641458d550a0a72a857f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: FloorTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: bd65f23bcfba571f69e3bbd72117cebd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.Platformer
+    className: PlayerControls
+  - hash:
+      serializedVersion: 2
+      Hash: 262581742f019d952aaf4d4b49757142
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: IndieMarc.StealthLOS
+    className: VisionTarget
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 40a787e2228ee960315457afcf0cff22
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ButtonEvent
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  platform: 19
+  scenePathNames:
+  - Assets/Scenes/111.unity
+  playerPath: F:/Unity/111111/111/build/111.exe
